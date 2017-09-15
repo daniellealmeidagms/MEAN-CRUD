@@ -1,2 +1,5 @@
-# MEAN-CRUD
-My first MEAN (MongoDB, Express, AngularJS and NodeJS) application.
+# MEAN-CRUD Application
+A simple MEAN RESTful application that does CRUD operations.
+
+MEAN = MongoDB, Express, AngularJS and NodeJS
+CRUD = Create, Read, Update and Delete
